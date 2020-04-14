@@ -27,11 +27,6 @@ say_hello_world_ten_times
   puts phrase
 end
 
-=>say_hello_world_ten_times
 say_hello_world_ten_times
 
-
-def greeting
-  puts "Hello World"
-end
 
